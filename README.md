@@ -12,7 +12,5 @@ Pandas
 
 Seaborn 
 
-Matplotlib 
-
 Scikit-Learn 
 
