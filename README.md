@@ -28,6 +28,7 @@ Using Gradio, a GUI library, the Interface was created. The patients details are
 ### 1. Patient has Heart Disease
 <img width="923" alt="Screenshot 2023-06-29 181945" src="https://github.com/kritvisharma/Heart-Disease-Predictor/assets/129278877/fad525ca-21d4-4b23-badc-22e589ada187">
 <img width="921" alt="Screenshot 2023-06-29 181950" src="https://github.com/kritvisharma/Heart-Disease-Predictor/assets/129278877/e04f7fe7-4661-40a8-96e9-1384eb0ca7bb">
+
 Result: 
 <img width="924" alt="Screenshot 2023-06-29 182540" src="https://github.com/kritvisharma/Heart-Disease-Predictor/assets/129278877/67ea5a86-4400-473b-b67f-fdff5d04d644">
 
